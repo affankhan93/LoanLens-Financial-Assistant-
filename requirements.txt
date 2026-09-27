@@ -1,0 +1,41 @@
+# Machine learning Model
+scikit-learn==1.6.1
+joblib
+pandas 
+numpy 
+matplotlib
+seaborn 
+plotly
+
+# RAG Model 
+langchain
+langchain-community<0.4
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+langchain-pinecone
+langchain-classic
+pinecone 
+ragas==0.2.8
+pypdf 
+
+# MCP layer 
+mcp>=2.0.0,<3.0.0
+tavily-python
+google-search-results
+google-genai
+
+# User interface (UI) 
+streamlit 
+streamlit-float>=0.3.4
+
+
+# Supabase 
+supabase 
+bcrypt
+
+# Environment 
+python-dotenv
+
+torchvision

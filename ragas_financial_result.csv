@@ -1,0 +1,35 @@
+user_input,retrieved_contexts,response,reference,faithfulness,answer_relevancy,context_precision,context_recall
+What is a Systematic Investment Plan (SIP)?,"['\n        A Systematic Investment Plan allows an investor to invest a fixed sum regularly \n        (weekly, monthly, or quarterly) into a chosen mutual fund scheme. It helps average\n        out the purchase cost over time through rupee-cost averaging and encourages disciplined, long-term investing.\n        ']","
+        A SIP is a method of investing a fixed amount in a mutual fund 
+        at regular intervals, such as monthly, instead of investing 
+        a lump sum at once.
+        ","
+        A SIP is a way of investing a fixed sum of money in a mutual fund at regular intervals, helping investors average their purchase cost over time through disciplined, periodic investing.
+        ",0.5,0.7877312775977551,0.9999999999,1.0
+What is the difference between simple interest and compound interest?,"['\n        Simple interest is computed as Principal x Rate x Time, applied only to the original amount borrowed or invested.\n        Compound interest, on the other hand, is calculated on the initial principal and also on the accumulated interest \n        from previous periods, causing the amount to grow faster over time.\n        ']","
+        Simple interest is calculated only on the original principal, 
+        while compound interest is calculated on the principal plus 
+        previously accumulated interest.
+        ","
+        Simple interest applies only to the original principal amount, whereas compound interest applies to both the principal and the interest already earned, resulting in faster growth over time.
+        ",1.0,0.9999999999998996,0.9999999999,1.0
+What is the Debt-to-Income (DTI) ratio used for in loan approval?,"[""\n        The Debt-to-Income ratio is calculated by dividing a borrower's total monthly debt payments by their gross monthly income.\n        Lenders use this ratio to evaluate whether an applicant can comfortably take on additional debt. A lower DTI ratio generally \n        indicates a good balance between debt and income, improving the chances of loan approval.\n        ""]","
+        The DTI ratio is used to measure a borrower's ability to manage 
+        monthly debt payments relative to their income, helping lenders 
+        assess loan repayment capacity.
+        ","
+        The DTI ratio measures the proportion of a borrower's monthly income that goes toward debt payments, and lenders use it to assess a borrower's capacity to take on and repay additional debt.
+        ",1.0,0.6680904076356365,0.9999999999,1.0
+What is an Equated Monthly Installment (EMI)?,"['\n        An EMI, or Equated Monthly Installment, is the fixed amount a borrower pays every month toward a loan. \n        Each EMI payment consists of two components: a portion that goes toward the loan principal and a portion that goes toward interest.\n        Over the loan tenure, the interest component decreases while the principal component increases.\n        ']","
+        An EMI is a fixed monthly payment made by a borrower to a lender 
+        on a specified date each month, covering both principal and 
+        interest, until the loan is fully repaid.
+        ","
+        An EMI is a fixed monthly payment consisting of both principal and interest components that a borrower pays to gradually repay a loan over its tenure.
+        ",1.0,0.6315472119638278,0.9999999999,1.0
+What is diversification in investing?,"[""\n        Diversification is a risk management strategy that mixes a variety of investments, such as stocks, bonds, and real estate, within a portfolio. \n        The rationale is that a portfolio built with different asset types will, on average, yield higher long-term returns and lower the risk of any single investment's poor performance.\n        ""]","
+        Diversification means spreading investments across different asset classes or
+        securities to reduce overall risk.
+        ","
+        Diversification is an investment strategy of spreading capital across different asset classes or securities to reduce the risk of loss from any single investment.
+        ",1.0,0.868501910727887,0.9999999999,1.0

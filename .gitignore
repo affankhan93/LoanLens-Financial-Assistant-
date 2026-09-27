@@ -1,0 +1,14 @@
+# Environment & secrets
+.env 
+.env.*
+!.env.example
+
+
+# Virtual Environments
+.venv
+.virtual_documents 
+
+
+# Data files 
+DATA 
+
