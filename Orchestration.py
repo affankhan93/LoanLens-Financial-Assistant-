@@ -19,6 +19,7 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 server_params = StdioServerParameters(
     command='python',
     args=['MCP layer/mcp_server.py'],
+    env=os.environ.copy(),
 )
 
 # The Gemini LLM does't not understand MCP server format directly it only understands its own format
