@@ -17,7 +17,7 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 # connect mcp_server.py file 
 server_params = StdioServerParameters(
-    command='python',
+    command=sys.executable,
     args=['MCP layer/mcp_server.py'],
     env=os.environ.copy(),
 )
